@@ -3,8 +3,6 @@ permalink: index.html
 site: sandpaper::sandpaper_site
 ---
 
-{% include gh\_variables.html %}
-
 The Data Curation for Reproducibility Curriculum aims to provide learners working in research data support roles with the practical knowledge and skills to properly execute data curation workflows that uphold the highest standard of data quality.
 
 The goal of this introductory lesson is to give learners: 1) the foundational knowledge needed to understand and engage with research reproducibility; and 2) an overview of the strategies used by information professionals to manage, curate, and steward research data assets that serve as the evidence base for reported scientific findings. This lesson also prepares learners to perform data curation for reproducibility activities taught in follow-up lessons, [Lesson 2: Curating for Reproducibility Workflows](https://curating4reproducibility.org/cure-carpentry-02-workflows/index.html), [Lesson 3: Reproducibility Assessment](https://curating4reproducibility.org/cure-carpentry-03-assessing/index.html), and [Lesson 4: Compendium Packaging and Publication](https://curating4reproducibility.org/cure-carpentry-04-packaging/index.html).
