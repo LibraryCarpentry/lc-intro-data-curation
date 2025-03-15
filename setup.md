@@ -2,8 +2,7 @@
 title: Setup
 ---
 
-FIXME
-
+No additional setup is required for this lesson.
 
 
 
