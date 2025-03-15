@@ -1,0 +1,39 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Introduction to Curating for Reproducibility
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Thu-Mai
+    family-names: Lewis Christian
+    orcid: 'https://orcid.org/0000-0002-3658-9692'
+    affiliation: University of North Carolina at Chapel Hill
+  - orcid: 'https://orcid.org/0000-0002-2000-3722'
+    given-names: Florio
+    family-names: Arguillas
+    affiliation: Cornell University
+  - orcid: 'https://orcid.org/0000-0002-3234-1593'
+    given-names: Limor
+    family-names: Peer
+    affiliation: Yale University
+repository-code: 'https://github.com/LibraryCarpentry/lc-intro-data-curation'
+url: 'https://librarycarpentry.github.io/lc-intro-data-curation/'
+abstract: >-
+  This lesson introduces the principles of data curation for
+  reproducibility, providing foundational knowledge and
+  strategies for managing research data assets. Learners
+  gain essential skills to support reproducible research
+  through effective curation workflows.
+keywords:
+  - reproducibility
+  - data curation
+  - research data
+  - data quality
+  - library carpentry
+license: CC-BY-4.0
+version: v2025-03-15
+date-released: '2025-03-15'
