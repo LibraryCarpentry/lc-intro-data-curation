@@ -9,7 +9,7 @@ The goal of this introductory lesson is to give learners: 1) the foundational kn
 
 To establish a shared understanding of what curating for reproducibility means and why the practice is critical to the scientific enterprise, this lesson covers quite a bit of ground. By committing the time necessary to learn these essential concepts and issues, learners will be better prepared to engage in activities for promoting and implementing data curation for reproducibility services.
 
-![](episode/fig/imls.jpg "IMLS logo"){alt='IMLS'}  
+![](episodes/fig/imls.jpg "IMLS logo"){alt='IMLS'}  
 **The CuRe Curriculum was made possible in part by the [Institute of Museum and Library Services](https://www.imls.gov/) under grants RE-87-17-0074-17 and RE-36-19-0081-19.** The Institute of Museum and Library Services is the primary source of federal support for the nation's libraries and museums. We advance, support, and empower America's museums, libraries, and related organizations through grantmaking, research, and policy development. Our vision is a nation where museums and libraries work together to transform the lives of individuals and communities. To learn more, visit [www.imls.gov](https://www.imls.gov/) and follow us on [Facebook](https://www.facebook.com/USIMLS) and [Twitter](https://www.twitter.com/us_imls).
 
 ::::::::::::::::::::::::::::::::::::::::::  prereq
